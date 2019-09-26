@@ -1,8 +1,16 @@
-body{
-    background: #eeedec;
-    letter-spacing: 0.2em;
-    font-size: 0.8em;
-  }
-  .container{
-    max-width: 400px;
-  }
+body {
+  background: #eeedec;
+  letter-spacing: 0.2em;
+  font-size: 0.8em;
+}
+.container {
+  max-width: 400px;
+}
+.icon {
+  position: relative;
+  top: -50px;
+  /* making it a perfect circle */
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: -50px;
+}
