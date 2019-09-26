@@ -7,7 +7,7 @@
 Built as a refresher on front end topics
 
 ## Technologies Used
-* Vanilla JS (async & await, shorthand object notation)
+* Vanilla JS (async & await, shorthand object notation, localStorage)
 * Real DOM manipulation (updateUI using setAttribute, innerHTML)
 * AccuWeather API 
 * Bootstrap 
