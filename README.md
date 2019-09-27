@@ -7,7 +7,7 @@
 Built as a refresher on front end topics
 
 ## Technologies Used
-* Vanilla JS (async & await, shorthand object notation, localStorage)
+* Vanilla JS (async & await, classes, localStorage)
 * Real DOM manipulation (updateUI using setAttribute, innerHTML)
 * AccuWeather API 
 * Bootstrap 
@@ -15,7 +15,7 @@ Built as a refresher on front end topics
 ## Challenges
 
 * Learning a new API, but AccuWeather has really good documentation
-* Refresher making async and await calls to restful apis
+* Refresher for async and await calls to restful apis + using class
 
 ## Next Steps
 
